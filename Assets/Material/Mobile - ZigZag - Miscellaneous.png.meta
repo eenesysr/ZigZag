@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 2a5fe53ed270062469fc0a85e6dd2f20
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3f95facec12448aa64968dc61a694
+      internalID: 544583784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 315
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b85954840f65945a01e69d8cf1a1fe
+      internalID: -1829878515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 297
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d70bbfde391149bead6b0ca7d2ea2
+      internalID: -288114923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 286
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6334442fc3fcd46a6b09bfe706ebc7
+      internalID: 1659759844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 297
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6204a233cded42a0be780d4527db5
+      internalID: -1884710011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 307
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69a3bd8598a3c4cb1fb10421dae53d
+      internalID: -1599889374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 302
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231f3dfcae8c6d4ab46075f3b04c225
+      internalID: -1039819090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 360
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2c6a664f87e2d45bb67d852f2bde16
+      internalID: -1270075607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 360
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d7f3f9714a964ea1f4a2daca160dd
+      internalID: 82743698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 318
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d713ccd870db45a3768cfb57d3d18
+      internalID: -1808454007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 318
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749400901c1b4b43a39521392645815
+      internalID: -9768471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 318
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeda10a8294b8f48b9e32696539238b
+      internalID: -1520507499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21a6b8ff1683a4abcd66a56f85edac
+      internalID: -1605391408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 236
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84cb5c8143d57f48a3711fe845fea44
+      internalID: 828147471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 163
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6782d8b9201474baebca52ac962ffc
+      internalID: -1943815653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 172
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311ab8a3c2044346889af4caa168a8a
+      internalID: -1877912080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 153
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08f49be609505499cde92175953d97
+      internalID: 1263382307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68478b3527cf180449f10bc448465a23
+      internalID: 872836796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 160
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdcd15f6d64c2d43aa16324a760e4e0
+      internalID: 406537473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4dd7935c6aae4cb5cad35164e133c
+      internalID: 1941771955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 161
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0537f1738998a4ba094cd9431cd128
+      internalID: -1733493240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 135
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22ed2991d4a0149b91d69fe7c53111
+      internalID: -147844846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 160
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc422d4b61c33f4fbba3ac95a2cbb84
+      internalID: 1723421584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 110
+        width: 451
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932c7d8fa5358f4dba1757b135b0e91
+      internalID: 1829216731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7417623bb335f4d839180131c40f20
+      internalID: 556112989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21a1b9ad785be4d827d73bd757f2e4
+      internalID: 424338192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 58
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45f72584e803a44aab5ce553358646
+      internalID: -1833371836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 58
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0acf39468bbda46a19dc1d6dfb70dc
+      internalID: -1422383460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 58
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc15f1464d44564fa1e69d8725fde0b
+      internalID: 1582425470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - ZigZag - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 306
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac110990047ffb4c9773345f11be6a7
+      internalID: 1030843343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ae6fe49fd981404199ffa1ccff4b7df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - ZigZag - Miscellaneous_0: 544583784
+      Mobile - ZigZag - Miscellaneous_1: -1829878515
+      Mobile - ZigZag - Miscellaneous_10: -1132396859
+      Mobile - ZigZag - Miscellaneous_11: -1808454007
+      Mobile - ZigZag - Miscellaneous_12: -9768471
+      Mobile - ZigZag - Miscellaneous_13: -1520507499
+      Mobile - ZigZag - Miscellaneous_14: -720113742
+      Mobile - ZigZag - Miscellaneous_15: -752571141
+      Mobile - ZigZag - Miscellaneous_16: -1605391408
+      Mobile - ZigZag - Miscellaneous_17: 828147471
+      Mobile - ZigZag - Miscellaneous_18: -1943815653
+      Mobile - ZigZag - Miscellaneous_19: -1877912080
+      Mobile - ZigZag - Miscellaneous_2: -288114923
+      Mobile - ZigZag - Miscellaneous_20: 1263382307
+      Mobile - ZigZag - Miscellaneous_21: 872836796
+      Mobile - ZigZag - Miscellaneous_22: 406537473
+      Mobile - ZigZag - Miscellaneous_23: 1941771955
+      Mobile - ZigZag - Miscellaneous_24: -1733493240
+      Mobile - ZigZag - Miscellaneous_25: -147844846
+      Mobile - ZigZag - Miscellaneous_26: 1723421584
+      Mobile - ZigZag - Miscellaneous_27: -1932661209
+      Mobile - ZigZag - Miscellaneous_28: 1829216731
+      Mobile - ZigZag - Miscellaneous_29: 556112989
+      Mobile - ZigZag - Miscellaneous_3: 1659759844
+      Mobile - ZigZag - Miscellaneous_30: 424338192
+      Mobile - ZigZag - Miscellaneous_31: -1833371836
+      Mobile - ZigZag - Miscellaneous_32: -1422383460
+      Mobile - ZigZag - Miscellaneous_33: 1582425470
+      Mobile - ZigZag - Miscellaneous_34: 1030843343
+      Mobile - ZigZag - Miscellaneous_4: -385389099
+      Mobile - ZigZag - Miscellaneous_5: -1884710011
+      Mobile - ZigZag - Miscellaneous_6: -1599889374
+      Mobile - ZigZag - Miscellaneous_7: -1039819090
+      Mobile - ZigZag - Miscellaneous_8: -1270075607
+      Mobile - ZigZag - Miscellaneous_9: 82743698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
